@@ -53,7 +53,8 @@ button:hover {
 
 #output {
     /* button 아래로 위치 변경 */
-    margin-top: 20px;
+    padding: auto;
+    margin-top: 50px;
     font-size: 20px;
     color: #333;
 
