@@ -4,7 +4,7 @@
    세계에 존재하는 다양한 기술들이 결국은 수학적 연산에 근거한다는 근본적인 철학을 담아, 덧셈, 뺄셈, 곱셈, 나눗셈의 기본적인 기능을 갖춘 계산기를 개발하였습니다.
 
 ### 2. 업무 분배
-<img src="https://github.com/BlackBean99/calculate_dlc/assets/54806810/6d0a9c1a-cc14-42e7-8e83-4f1d492f2428" width = "190" height="270">
+<img src="https://github.com/BlackBean99/calculate_dlc/assets/54806810/cc359a50-3625-40d9-b1d9-234b47d6c3a8" width = "190" height="270">
 JS : 이서현
 
 <img src="https://github.com/BlackBean99/calculate_dlc/assets/54806810/e1d620b5-ac7e-40ba-8acf-ab938e4f1298" width = "190" height="270">
