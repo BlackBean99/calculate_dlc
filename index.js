@@ -1,14 +1,13 @@
-// 엘리먼트 가져오기
-const firstValue = document.getElementById('first');
-const secondValue = document.getElementById('second');
+document.addEventListener('DOMContentLoaded', (event) => {
+  // 엘리먼트 가져오기
+  const firstValue = document.getElementById('first');
+  const secondValue = document.getElementById('second');
+  const output = document.getElementById('output');
 
-const submitForm = document.getElementById('form');
-const output = document.getElementById('output');
-
-const formSubmitHandler = (event, operation) => {
+  const formSubmitHandler = (event, operation) => {
     event.preventDefault();
     let result;
-  
+
     switch (operation) {
       case 'add':
         result = add(Number(firstValue.value), Number(secondValue.value));
@@ -28,15 +27,16 @@ const formSubmitHandler = (event, operation) => {
     // 결과 값 출력
     output.textContent = result;
   };
-  
+
   // Event listeners for buttons
-  document.getElementById('addButton').addEventListener('click', (event) => formSubmitHandler(event, 'add'));
-  document.getElementById('minusButton').addEventListener('click', (event) => formSubmitHandler(event, 'minus'));
-  document.getElementById('multiplyButton').addEventListener('click', (event) => formSubmitHandler(event, 'multiply'));
-  document.getElementById('divideButton').addEventListener('click', (event) => formSubmitHandler(event, 'divide'));
-  
+  document.getElementById('add').addEventListener('click', (event) => formSubmitHandler(event, 'add'));
+  document.getElementById('minus').addEventListener('click', (event) => formSubmitHandler(event, 'minus'));
+  document.getElementById('multiply').addEventListener('click', (event) => formSubmitHandler(event, 'multiply'));
+  document.getElementById('divide').addEventListener('click', (event) => formSubmitHandler(event, 'divide'));
+
   // 덧셈 함수
   const add = (a, b) => a + b;
   const minus = (a, b) => a - b;
   const multiply = (a, b) => a * b;
   const divide = (a, b) => a / b;
+});
