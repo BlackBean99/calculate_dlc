@@ -4,18 +4,13 @@
    세계에 존재하는 다양한 기술들이 결국은 수학적 연산에 근거한다는 근본적인 철학을 담아, 덧셈, 뺄셈, 곱셈, 나눗셈의 기본적인 기능을 갖춘 계산기를 개발하였습니다.
 
 ### 2. 업무 분배
-<img src="https://github.com/BlackBean99/calculate_dlc/assets/54806810/ab30bd0f-e8d9-4a11-8fb5-88ab370c08f8" width = "260" height="270">
+
+|<img src="https://github.com/BlackBean99/calculate_dlc/assets/54806810/ab30bd0f-e8d9-4a11-8fb5-88ab370c08f8" width = "260" height="270">|<img src="https://github.com/BlackBean99/calculate_dlc/assets/54806810/e1d620b5-ac7e-40ba-8acf-ab938e4f1298" width = "190" height="270">|<img src="https://github.com/BlackBean99/calculate_dlc/assets/54806810/2775338c-6836-40d3-a745-8cdffd29c280" width = "200" height="220">|
+|:------:|:------:|:------:|
+|이서현|김기훈|김준영|
+
 </br>
-JS : 이서현
-</br>
-<img src="https://github.com/BlackBean99/calculate_dlc/assets/54806810/e1d620b5-ac7e-40ba-8acf-ab938e4f1298" width = "190" height="270">
-</br>
-CSS : 김기훈
-</br>
-<img src="https://github.com/BlackBean99/calculate_dlc/assets/54806810/2775338c-6836-40d3-a745-8cdffd29c280" width = "200" height="220">
-</br>
-HTML: 김준영
-</br>
+
 ### 3. 개발 규칙(커밋 규칙)
    "[본인 이름] 변경 사항"
 
