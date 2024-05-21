@@ -15,6 +15,20 @@
 ### 3. 개발 규칙(커밋 규칙)
    "[본인 이름] 변경 사항"
 
+### 4. CD 구축
+https://starlit-gnome-474bbb.netlify.app/
+
+### 5. How To Start
+**0. Landing Page**
+<img width="1028" alt="image" src="https://github.com/BlackBean99/calculate_dlc/assets/54030889/44f9acba-2bfc-4a90-9bcf-b1758b1f5ba5">
+
+1. 첫번째 숫자와 두번째 숫자를 입력한다.
+<img width="1028" alt="image" src="https://github.com/BlackBean99/calculate_dlc/assets/54030889/b16f1aa5-c117-42e3-a369-baaa022e2bd9">
+3. 각 버튼을 누르며 연산 결과를 음미한다.
+<img width="1028" alt="image" src="https://github.com/BlackBean99/calculate_dlc/assets/54030889/f605894e-b1e8-4e4c-99b1-09f7207ee0a9">
+
+
 ### 4. 느낀점
 김준영 : 많이 부족하지만 팀원들의 도움을 받아 어제 배운 이론내용을 실습을 통해 학습할 수 있었습니다.</br>
 김기훈 : 깃헙으로 협업을 처음 해봐서 많이 헤맸지만 팀원 분들의 친절한 설명과 도움 덕분에 실습을 무사히 마칠 수 있었습니다. LGTM이 무엇인지도 배워서 개발자에 한 걸음 더 다가간 것 같습니다!</br>
+이서현: 팀원들과 함께 레이아웃의 위치 문제와 자스 문제들을 해결하며 협업의 즐거움을 상기할 수 있었습니다.
