@@ -10,7 +10,7 @@ JS : 이서현
 <img src="https://github.com/BlackBean99/calculate_dlc/assets/54806810/e1d620b5-ac7e-40ba-8acf-ab938e4f1298" width = "190" height="270">
 CSS : 김기훈
 
-<img src="https://github.com/BlackBean99/calculate_dlc/assets/54806810/2775338c-6836-40d3-a745-8cdffd29c280" width = "200" height="240">
+<img src="https://github.com/BlackBean99/calculate_dlc/assets/54806810/2775338c-6836-40d3-a745-8cdffd29c280" width = "200" height="220">
 HTML: 김준영
 
 ### 3. 개발 규칙(커밋 규칙)
